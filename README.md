@@ -1,13 +1,13 @@
 ![MasterHead](https://www.webcareindia.com/images/web-design-company-in-delhi.gif)
 <h1 align="center">Hello 👋, I'm Beka Dessalegn</h1>
-<h3 align="center">A passionate website and mobile app developer from Ethiopia</h3>
+<h3 align="center">A passionate Mobile App and Website Developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekadessalegn&label=Profile%20views&color=0e75b6&style=flat" alt="bekadessalegn" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bekadessalegn" target="blank"><img src="https://img.shields.io/twitter/follow/bekadessalegn?logo=twitter&style=for-the-badge" alt="bekadessalegn" /></a> </p>
 
-- 🔭 I’m currently working on **Cash Market web app**
+- 🔭 I’m currently working on **Tri Mobile App**
 
 - 💬 Ask me about **Website and Mobile app development, UI/UX design**
 
