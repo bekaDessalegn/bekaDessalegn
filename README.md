@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bekadessalegn" target="blank"><img src="https://img.shields.io/twitter/follow/bekadessalegn?logo=twitter&style=for-the-badge" alt="bekadessalegn" /></a> </p>
 
-- 🔭 I’m currently working on **Tri Mobile App**
+- 🔭 I’m currently working on **Loche Football Fantasy Mobile App**
 
 - 💬 Ask me about **Website and Mobile app development, UI/UX design**
 
